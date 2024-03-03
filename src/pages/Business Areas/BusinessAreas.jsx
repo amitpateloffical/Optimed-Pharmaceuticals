@@ -82,7 +82,7 @@ function BusinessAreas() {
                         <div className="col-md-9">
                             <div className="container">
                                 <div className="heading-business m-4" data-aos="fade-left">
-                                    We provide comprehensive range of specialty branded generic products targeting broad spectrum of chronic and acute therapies. We clearly understand our customers’ needs and use cutting-edge technology to present innovative solutions.
+                                Optimed is driven by a commitment to innovation, quality, and integrity in every aspect of our pharmaceutical solutions. We are dedicated to developing advanced treatments and therapies that improve health outcomes for patients worldwide. Our research and development efforts are guided by scientific rigor and a focus on meeting the needs of patients and healthcare providers. With a steadfast commitment to excellence and ethical practices, we strive to make a meaningful impact on healthcare and contribute to a healthier future for al
                                 </div>
                             </div>
                             <div className="paratwo p-5 mb-4">

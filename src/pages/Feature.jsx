@@ -55,11 +55,11 @@ export default function GxpTrainig() {
           <div className="row g-5 align-items-center">
             <div className="col-lg-5 wow fadeIn" data-wow-delay="0.1s">
               <div className="abouts" data-aos="fade-right" >
-                <img className="img-fluid" src="/ebmr2.jpg" />
+                <img className="img-fluid" src="https://img.freepik.com/premium-photo/medical-science-laboratory-concept-virus-bacteria-research_207634-679.jpg?size=626&ext=jpg&ga=GA1.1.1884802103.1674757283&semt=sph" />
               </div>
             </div>
             <div className="col-lg-7 wow fadeIn" data-wow-delay="0.5s">
-              <h4 className="mb-4 " data-aos="fade-left">At Mediva, science is embedded in our ethos, as we wholeheartedly embrace Research and Development (R&D) as an essential component of our sustainable business strategy. Over the decades, we have invested strongly and strategically in cutting-edge technological advancements and innovative research activities.</h4>
+              <h4 className="mb-4 " data-aos="fade-left">Optimed Pharmaceuticals is forging the path forward in healthcare innovation. Our Research & Development team is driven by a relentless pursuit of new treatments that push the boundaries of science. Through collaboration, creativity, and unwavering dedication, we are shaping a future where better health is within reach for all. Join us as we redefine what's possible in medicine and transform the way we care for patients</h4>
               {/* <div className="content_container"> */}
                 {/* <ul className="list-group"
                   ref={(ref) => listRefs.current.push(ref)}
@@ -86,7 +86,7 @@ export default function GxpTrainig() {
                   </li>
                 </ul> */}
               {/* </div> */}
-              <div className="containt-data fs-5">Our paramount proficiency resides in our adeptness at excelling in the development of differentiated generic products, bolstered by our specialized teams in formulation development, process chemistry, and analytical development. This prowess significantly contributes to the establishment of a formidable competitive advantage.</div>
+              <div className="containt-data fs-5">Optimed Pharmaceuticals’ Research & Development is dedicated to pushing the boundaries of medical science. Our team of innovators is shaping the future of healthcare through pioneering drug discovery and development. Join us as we explore new frontiers, driven by our passion for making a difference in patients’ lives.</div>
             </div>
           </div>
         </div>
@@ -97,11 +97,11 @@ export default function GxpTrainig() {
         <div className="container" style={{background:"#AFEEEE",paddingLeft:"20px", paddingTop:"30px", paddingBottom:"30px", borderLeft:"4px solid green"}}>
           <div className="row align-items-center g-5">
             <div className="col-lg-9  wow fadeIn" data-wow-delay="0.5s" style={{fontSize: "19px", fontWeight: "500"}}>
-            Our team thrives in an environment conducive to excellence and innovation, which is critical to advancing complex and challenging first-time combination products. The R&D team actively engages in projects from concept to Phase IV studies, as well as monitoring market acceptance and post-launch status for comprehensive insights.
+          Optimed Pharmaceuticals is on the brink of groundbreaking advancements in healthcare. Our R&D division is focused on pioneering new treatments and revolutionizing patient care. By combining innovative science with a dedication to patient needs, we're at the forefront of medical discovery. Join us as we embark on a journey to reimagine what's possible in healthcare.
             </div>
             <div className="col-lg-3 wow fadeIn" data-wow-delay="0.1s">
             <div className="h-75 w-75 " data-aos="fade-right" >
-                <img className="img-fluid  rounded" src="/ebmr2.jpg" />
+                <img className="img-fluid  rounded" src="https://img.freepik.com/premium-photo/medical-science-laboratory-concept-virus-bacteria-research_207634-679.jpg?size=626&ext=jpg&ga=GA1.1.1884802103.1674757283&semt=sph" />
               </div>
             </div>
           </div>

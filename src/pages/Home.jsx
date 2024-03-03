@@ -22,7 +22,7 @@ function Home() {
           <div className=" g-5 align-items-center slider-img">
             <div className="  wow fadeIn" data-wow-delay="0.1s" data-aos="fade-right">
               <div className="">
-                <img className="img-fluid" src="https://media.istockphoto.com/id/1309776504/photo/female-research-scientist-with-bioengineer-working-on-a-personal-computer-with-screen-showing.jpg?s=612x612&w=0&k=20&c=FBI79EWdoWHailbTGvQWBBYOiOfx7owZLWuNnQxuDqo=" />
+                <img className="img-fluid" src="https://img.freepik.com/free-photo/young-blonde-woman-pharmacist-smiling-confident-standing-pharmacy_839833-15376.jpg?size=626&ext=jpg&ga=GA1.1.1884802103.1674757283&semt=sph" />
               </div>
             </div>
             <div
@@ -33,10 +33,8 @@ function Home() {
               <div className="home-head rounded-pill  px-3 mb-3">
                 Business Area
               </div>
-              <h1 className="heading-about">Clear Strategy, Consistent Performance</h1>
-              <p className="home-para">"Driven by our passion for advancing medical science and improving patient
-                outcomes, we continuously invest in research and development to
-                bring new and groundbreaking treatments to market"</p>
+              <h1 className="heading-about">Innovation and Integrity in Healthcare Solutions</h1>
+              <p className="home-para">"Optimed is driven by a commitment to innovation, quality, and integrity in every aspect of our pharmaceutical solutions. We are dedicated to developing advanced treatments and therapies that improve health outcomes for patients worldwide. Our research and development efforts are guided by scientific rigor and a focus on meeting the needs of patients and healthcare providers. With a steadfast commitment to excellence and ethical practices, we strive to make a meaningful impact on healthcare and contribute to a healthier future for al"</p>
             </div>
           </div>
         </div>
@@ -54,17 +52,13 @@ function Home() {
               <div className="home-head rounded-pill px-3 mb-3">
                 Manufacturing
               </div>
-              <h1 className="heading-about">Providing Quality Products</h1>
-              <p className="home-para">"At Mediva Pharmaceuticals , we believe that quality is the cornerstone of every
-                product we deliver. Our state-of-the-art manufacturing facilities are equipped
-                with cutting-edge technology and adhere to the highest international
-                standards to ensure the safety, purity,
-                and effectiveness of our pharmaceutical products.."</p>
+              <h1 className="heading-about">Crafting the Future of Healthcare with Advanced Pharma Manufacturing</h1>
+              <p className="home-para">"At our core, we are trailblazers in pharmaceutical manufacturing, setting new standards in quality, innovation, and sustainability. With our cutting-edge technology and unwavering commitment, we are dedicated to producing medicines that improve and save lives. Join us in our mission to transform healthcare and deliver excellence in pharmaceutical manufacturing."</p>
 
             </div>
             <div className="wow fadeIn" data-wow-delay="0.1s" data-aos="fade-right">
 
-              <img className="img-fluid" src="https://media.istockphoto.com/id/1212392754/photo/scientist-works-with-petri-dishes-with-various-bacteria-tissue-and-blood-samples-concept-of.jpg?s=612x612&w=0&k=20&c=CLcKr82Sq-gA0vPIywY5XylI7bTYT1h86Z4Oc5hqwUE=" />
+              <img className="img-fluid" src="https://img.freepik.com/free-photo/medical-specialist-team-wearing-protective-equipment-against-covid_482257-16147.jpg?size=626&ext=jpg&ga=GA1.1.1884802103.1674757283&semt=sph" />
 
             </div>
           </div>
@@ -77,7 +71,7 @@ function Home() {
           <div className=" g-5 align-items-center slider-img">
             <div className="  wow fadeIn" data-wow-delay="0.1s" data-aos="fade-right">
               <div className="">
-                <img className="img-fluid"  src="https://media.istockphoto.com/id/997784670/photo/pharma-logistician-using-iot-based-on-blockchain.jpg?s=612x612&w=0&k=20&c=mDTYaUEB4laXzb6AQGeHs12liZu-denwznwIgTlIDh8=" />
+                <img className="img-fluid"  src="https://img.freepik.com/free-photo/technologist-white-protective-uniform-controlling-industrial-process-using-tablet-computer_342744-1165.jpg?size=626&ext=jpg&ga=GA1.1.1884802103.1674757283&semt=sph" />
               </div>
             </div>
             <div
@@ -88,12 +82,8 @@ function Home() {
               <div className="home-head rounded-pill  px-3 mb-3">
                 Research & Development
               </div>
-              <h1 className="heading-about">The Innovation Edge</h1>
-              <p className="home-para">" we are committed to advancing the boundaries of medical science
-                and improving healthcare outcomes through innovative research and development.
-                Our state-of-the-art laboratories and dedicated team of scientists and researchers
-                work tirelessly to discover and develop
-                groundbreaking medicines that address unmet medical needs."</p>
+              <h1 className="heading-about">Revolutionizing Medicine, One Discovery at a Time</h1>
+              <p className="home-para">" At Optimed Pharmaceuticals, our Research & Development team is redefining healthcare through a commitment to groundbreaking discovery. Through relentless innovation and scientific exploration, we are discovering tomorrow's therapies today. Join us in our quest to bring new hope and healing to patients worldwide."</p>
 
             </div>
           </div>
@@ -112,20 +102,13 @@ function Home() {
               <div className="home-head rounded-pill px-3 mb-3">
                 About Us
               </div>
-              <h1 className="heading-about">Clear Strategy, Consistent Performance</h1>
-              <p className="home-para"> "Welcome to Mediva Pharmaceuticals, where our mission is to revolutionize healthcare through innovative,
-                life-changing medicines. As a global leader in pharmaceuticals,
-                we specialize in developing cutting-edge treatments for a wide range of medical conditions.
-                Our commitment to excellence drives us to consistently deliver safe, effective,
-                and affordable solutions that improve patient outcomes and enhance quality of life.
-                Backed by a team of dedicated scientists, researchers, and healthcare professionals,
-                we strive to make a meaningful impact on the world by pushing the boundaries
-                of medical science and improving access to healthcare for all."</p>
+              <h1 className="heading-about"> Redefining Medicine, One Innovation at a Time</h1>
+              <p className="home-para"> "Welcome to Optimed Pharmaceuticals, where we’re redefining the way medicine is created and delivered. Our team of dedicated researchers and scientists is committed to pushing the boundaries of what’s possible in pharmaceuticals. By leveraging the latest technologies and scientific advancements, we're able to develop groundbreaking medications that address the most pressing health challenges. But we’re not just focused on creating new medicines - we’re also dedicated to making them accessible to everyone who needs them. Our commitment to affordability ensures that our products are available to patients of all backgrounds and income levels. Join us as we continue to redefine medicine and make a difference in the lives of patients worldwide. Welcome to Optimed Pharmaceuticals, where innovation and compassion drive everything we do."</p>
 
             </div>
             <div className="wow fadeIn abouts" data-wow-delay="0.1s" data-aos="fade-right">
 
-              <img className="img-fluid" height={"344px"} width={"612px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXVdBgChoX8FO4cd2EFWKcB8FCPKMVjYSr4g&usqp=CAU" />
+              <img className="img-fluid" height={"344px"} width={"612px"} src="https://img.freepik.com/free-photo/chemist-explaining-prescription-senior-man-drugstore_651396-1221.jpg?size=626&ext=jpg&ga=GA1.1.1884802103.1674757283&semt=sph" />
 
             </div>
           </div>

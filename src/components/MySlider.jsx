@@ -43,10 +43,10 @@ const MySlider = () => {
     <Slider {...settings} >
       {/* First Slide */}
 
-      <img height={"500px"} src="https://www.moralpharma.com/data1/images/Pharmaslider1.png" />
-      <img  height={"500px"} src="https://img.freepik.com/free-vector/pharmaceutical-medicine-healthcare-template-vector-social-media-post_53876-117769.jpg?size=626&ext=jpg&ga=GA1.1.1884802103.1674757283&semt=sph"/>
-      <img height={"500px"} src="https://img.freepik.com/free-photo/various-pills-hand_23-2147983107.jpg?size=626&ext=jpg&ga=GA1.1.1884802103.1674757283&semt=sph" />
-     <img height={"500px"} src="https://img.freepik.com/free-vector/healthcare-background-with-medical-symbols-hexagonal-frame_1017-26363.jpg?size=626&ext=jpg&ga=GA1.2.1884802103.1674757283&semt=sph" />
+      <img height={"500px"} src="https://img.freepik.com/free-vector/chemistry-measuring-glass-tubes-beakers-realistic-vector-illustration-set-empty-transparent-filled-with-colored-liquid-laboratory-flasks-lab-test-equipment-science-glassware_107791-24023.jpg?size=626&ext=jpg&ga=GA1.1.1884802103.1674757283&semt=sph" />
+      <img  height={"500px"} src="https://img.freepik.com/premium-photo/healthcare-professional-holding-coronavirus-covid19-vaccine-laboratory-study-analyze-scientific-sample-coronavirus-antibody_533890-3418.jpg?size=626&ext=jpg&ga=GA1.1.1884802103.1674757283&semt=sph"/>
+      {/* <img height={"500px"} src="https://img.freepik.com/free-photo/various-pills-hand_23-2147983107.jpg?size=626&ext=jpg&ga=GA1.1.1884802103.1674757283&semt=sph" />
+     <img height={"500px"} src="https://img.freepik.com/free-vector/healthcare-background-with-medical-symbols-hexagonal-frame_1017-26363.jpg?size=626&ext=jpg&ga=GA1.2.1884802103.1674757283&semt=sph" /> */}
       {/* <div className="container-fluid pt-5  hero-header mb-5">
         <div className="container pt-5">
           <div className="row g-5 pt-5">
